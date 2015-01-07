@@ -9,3 +9,5 @@ Travail réalisé sous la direction de :
   - Matthias Galipaud (matthias.galipaud@u-bourgogne.fr)
   
 A l'UMR CNRS 6282 Biogéosciences, Université de Bourgogne, 6 Boulevard Gabriel, 21000 Dijon, France
+
+Rémy Destrebecq (rdestreb@student.42.fr)
