@@ -2,7 +2,7 @@ G.Pulex_homogamie-taille
 ========================
 
 Master BOP (université de Bourgogne), modelisation d'homogamie pour la taille chez G.Pulex (2011)
-Scripts codés en R
+Scripts codés en R (http://www.r-project.org/)
 
 Travail réalisé sous la direction de :
   - Francois-Xavier Dechaume-Moncharmont (fx.dechaume@u-bourgogne.fr)
